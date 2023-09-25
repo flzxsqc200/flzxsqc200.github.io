@@ -19,15 +19,15 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 简 悦                            # the main title
+title: 测试                            # the main title
 
-tagline: 简悦的博客                      # it will display as the sub-title
+tagline: 测试的博客                      # it will display as the sub-title
 
 description: >-                         # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://jianyue.tech/'
+url: 'https://flzxsqc200.github.io'
 
 github:
   username: cs-qyzhang                  # change to your github username
@@ -38,12 +38,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 简悦
-  email: cs.qyzhang@qq.com              # change to your email address
+  name: 测试
+  email: 测试@qq.com              # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://jianyue.tech
-    - https://github.com/cs-qyzhang     # change to your github homepage
+    - https://www.baidu.com
     # - https://twitter.com/username      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -54,12 +53,12 @@ google_site_verification:               # fill in to your verification string
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: 'G-69KYY40RMN'  # fill in your Google Analytics ID
+# google_analytics:
+  #id: 'G-69KYY40RMN'  # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+  # pv:
+    #proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+    #cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
